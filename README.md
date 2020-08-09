@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Justin 👋
 
-<!--
-**jsbroks/jsbroks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Developer!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently work on building a [data creation platform](https://github.com/jsbroks).
+- ⚡ I've created and contriubuted to many open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[<img align="left" alt="jsbroks | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jsbroks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+
+### 📺 Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jsbroks&show_icons=true&hide_border=true" >
+
+
+[youtube]: https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A
+[github]: https://www.github.com/jsbroks
+[linkedin]: https://www.linkedin.com/in/jsbroks/
