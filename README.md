@@ -17,6 +17,9 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Implementing a gRPC client and server in Typescript with Node](https://www.youtube.com/watch?v=H0c4Wjl4kRQ)
+- [Awesome features coming to JavaScript in ES2021!](https://www.youtube.com/watch?v=6VYpMxA4Q1k)
+- [Image annotation using COCO Annotator](https://www.youtube.com/watch?v=OMJRcjnMMok)
 <!-- YOUTUBE:END -->
 
 ---
