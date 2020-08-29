@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Fundamentals of Reactivity in Vue 3](https://www.youtube.com/watch?v=BFav9Z4lEXE)
 - [Lifecycle Hooks in Vue 3](https://www.youtube.com/watch?v=ovGtB5eWsVI)
 - [Quick Basics of Vue 3 Composition API](https://www.youtube.com/watch?v=p4iOYO_St_Y)
 - [Introduction and Advantages to Vue 3 Composition API](https://www.youtube.com/watch?v=hel0GmxeHyI)
 - [3 tips you probably didn't know about TypeScript](https://www.youtube.com/watch?v=UuBJrAZsp4Y)
-- [Implementing a gRPC client and server in Typescript with Node](https://www.youtube.com/watch?v=H0c4Wjl4kRQ)
 <!-- YOUTUBE:END -->
 
 ---
