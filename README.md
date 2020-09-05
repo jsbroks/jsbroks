@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Using Teleport in Vue 3](https://www.youtube.com/watch?v=aYnm4Pc1ICY)
 - [3 Examples of using Proxy and Reflect API in JavaScript](https://www.youtube.com/watch?v=yj56BCWiE28)
 - [Fundamentals of Reactivity in Vue 3](https://www.youtube.com/watch?v=BFav9Z4lEXE)
 - [Lifecycle Hooks in Vue 3](https://www.youtube.com/watch?v=ovGtB5eWsVI)
 - [Quick Basics of Vue 3 Composition API](https://www.youtube.com/watch?v=p4iOYO_St_Y)
-- [Introduction and Advantages to Vue 3 Composition API](https://www.youtube.com/watch?v=hel0GmxeHyI)
 <!-- YOUTUBE:END -->
 
 ---
