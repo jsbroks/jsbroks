@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Building Traversy Media Hangman game in Vue 3 using the Composition API](https://www.youtube.com/watch?v=8zXvmmn9qVo)
 - [Dependency Injection in Vue 3 with Provide and Inject](https://www.youtube.com/watch?v=dOxjzgZpTfk)
 - [Write git commit messages like a PRO with Conventional Commits](https://www.youtube.com/watch?v=OJqUWvmf4gg)
 - [Using Teleport in Vue 3](https://www.youtube.com/watch?v=aYnm4Pc1ICY)
 - [3 Examples of using Proxy and Reflect API in JavaScript](https://www.youtube.com/watch?v=yj56BCWiE28)
-- [Fundamentals of Reactivity in Vue 3](https://www.youtube.com/watch?v=BFav9Z4lEXE)
 <!-- YOUTUBE:END -->
 
 ---
