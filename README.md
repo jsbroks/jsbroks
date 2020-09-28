@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating a Vuex Todo App with full Typescript Support using Vue 3 Composition API in 5 minutes](https://www.youtube.com/watch?v=EeaYWLNXAwQ)
 - [Quick HTTP Cookie guide in Web Development with Express](https://www.youtube.com/watch?v=hzMqeeGgtBA)
 - [Building Traversy Media Hangman game in Vue 3 using the Composition API](https://www.youtube.com/watch?v=8zXvmmn9qVo)
 - [Dependency Injection in Vue 3 with Provide and Inject](https://www.youtube.com/watch?v=dOxjzgZpTfk)
 - [Write git commit messages like a PRO with Conventional Commits](https://www.youtube.com/watch?v=OJqUWvmf4gg)
-- [Using Teleport in Vue 3](https://www.youtube.com/watch?v=aYnm4Pc1ICY)
 <!-- YOUTUBE:END -->
 
 ---
