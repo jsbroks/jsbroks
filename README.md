@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Building a Web app with Vue Router, Typescript and Vue Composition API](https://www.youtube.com/watch?v=hY7F7U8qDPA)
 - [Improving performance in your Vue 3 application by Lazy Loading components](https://www.youtube.com/watch?v=ZgJufqJW_ec)
 - [Creating a Vuex Todo App with full Typescript Support using Vue 3 Composition API in 5 minutes](https://www.youtube.com/watch?v=EeaYWLNXAwQ)
 - [Quick HTTP Cookie guide in Web Development with Express](https://www.youtube.com/watch?v=hzMqeeGgtBA)
 - [Building Traversy Media Hangman game in Vue 3 using the Composition API](https://www.youtube.com/watch?v=8zXvmmn9qVo)
-- [Dependency Injection in Vue 3 with Provide and Inject](https://www.youtube.com/watch?v=dOxjzgZpTfk)
 <!-- YOUTUBE:END -->
 
 ---
