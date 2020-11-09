@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Vuex Basics with Vue 3 with Composition API in 6 minutes](https://www.youtube.com/watch?v=t_VgDeUJ3_I)
 - [GraphQL Basics in 6 minutes - Creating a Weather API with Apollo Server](https://www.youtube.com/watch?v=8l7TxqWI1XA)
 - [Vue 3 and Vuex Testing for Beginners](https://www.youtube.com/watch?v=Ys3iivkSh9g)
 - [15 Vue 3 Tips and Tricks](https://www.youtube.com/watch?v=iVnn21cAa3M)
 - [Building a Web app with Vue Router, Typescript and Vue Composition API](https://www.youtube.com/watch?v=hY7F7U8qDPA)
-- [Improving performance in your Vue 3 application by Lazy Loading components](https://www.youtube.com/watch?v=ZgJufqJW_ec)
 <!-- YOUTUBE:END -->
 
 ---
