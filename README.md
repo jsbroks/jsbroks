@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Ionic and Vue 3 Basics - Building cross platform apps](https://www.youtube.com/watch?v=CPsLkOe8a60)
 - [Creating a Vuex Clone with Vue 3 Composition API](https://www.youtube.com/watch?v=QMx4lc2fiSs)
 - [Advanced Vuex with Modules, and Actions in Vue 3](https://www.youtube.com/watch?v=_nB-7--vUV8)
 - [Vuex Basics in Vue 3 with Composition API in 6 minutes](https://www.youtube.com/watch?v=t_VgDeUJ3_I)
 - [GraphQL Basics in 6 minutes - Creating a Weather API with Apollo Server](https://www.youtube.com/watch?v=8l7TxqWI1XA)
-- [Vue 3 and Vuex Testing for Beginners](https://www.youtube.com/watch?v=Ys3iivkSh9g)
 <!-- YOUTUBE:END -->
 
 ---
