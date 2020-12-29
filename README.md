@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Vue 3 and Firebase - Build and deploy a CRUD Application with Vue.js and Firebase](https://www.youtube.com/watch?v=Htt8AKeF1Kw)
 - [Vue 3 Typescript Tutorial - Basic user login flow with Typescript and Vue 3](https://www.youtube.com/watch?v=foZiwDb-YUE)
 - [State managment in Vue 3 with Typescript - Vuejs Pinia Tutorial / Vuex Killler?](https://www.youtube.com/watch?v=sVj4rbbS_ws)
 - [Ionic and Vue 3 Basics - Building cross platform apps](https://www.youtube.com/watch?v=CPsLkOe8a60)
 - [Creating a Vuex Clone with Vue 3 Composition API](https://www.youtube.com/watch?v=QMx4lc2fiSs)
-- [Advanced Vuex with Modules, and Actions in Vue 3](https://www.youtube.com/watch?v=_nB-7--vUV8)
 <!-- YOUTUBE:END -->
 
 ---
