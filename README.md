@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Vue 3 for Beginners - Building a tick tac toe game with the Composition API](https://www.youtube.com/watch?v=pFeXPWO4elk)
 - [Building a Realtime Chat App with Vue 3 and Firebase in 7 minutes](https://www.youtube.com/watch?v=egs7_a4Yjnk)
 - [Vue 3 and Firebase - Build and deploy a CRUD Application with Vue.js and Firebase](https://www.youtube.com/watch?v=Htt8AKeF1Kw)
 - [Vue 3 Typescript Tutorial - Basic user login flow with Typescript and Vue 3](https://www.youtube.com/watch?v=foZiwDb-YUE)
 - [State managment in Vue 3 with Typescript - Vuejs Pinia Tutorial / Vuex Killler?](https://www.youtube.com/watch?v=sVj4rbbS_ws)
-- [Ionic and Vue 3 Basics - Building cross platform apps](https://www.youtube.com/watch?v=CPsLkOe8a60)
 <!-- YOUTUBE:END -->
 
 ---
