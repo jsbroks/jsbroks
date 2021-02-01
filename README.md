@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Electron with React - Building a desktop applications with React and Electron](https://www.youtube.com/watch?v=oAaS9ix8pes)
 - [Vue 3 with Electron - Building a desktop applications with Vue and Electron](https://www.youtube.com/watch?v=LnRCX074VfA)
 - [10 Github repositories every web developer should know](https://www.youtube.com/watch?v=YtKw9bmenPk)
 - [Vue 3 for Beginners - Building a tick tac toe game with the Composition API](https://www.youtube.com/watch?v=pFeXPWO4elk)
 - [Building a Realtime Chat App with Vue 3 and Firebase in 7 minutes](https://www.youtube.com/watch?v=egs7_a4Yjnk)
-- [Vue 3 and Firebase - Build and deploy a CRUD Application with Vue.js and Firebase](https://www.youtube.com/watch?v=Htt8AKeF1Kw)
 <!-- YOUTUBE:END -->
 
 ---
