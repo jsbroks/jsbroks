@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Why you should choose TypeScript in 2021](https://www.youtube.com/watch?v=j3vMrmlT_QE)
 - [Vite.js explained in a #short](https://www.youtube.com/watch?v=UUgG1B2UpXw)
 - [Vite - Next generation web build tools](https://www.youtube.com/watch?v=3ADapNcDLZU)
 - [Why you should choose Vue.js in 2021](https://www.youtube.com/watch?v=_XErZvXXalY)
 - [Google Maps and Geolocation app using Vue 3 Composition API](https://www.youtube.com/watch?v=m4ad3eEFhAo)
-- [Electron with React - Building a desktop applications with React and Electron](https://www.youtube.com/watch?v=oAaS9ix8pes)
 <!-- YOUTUBE:END -->
 
 ---
