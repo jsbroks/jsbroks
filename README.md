@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [3 image attributes you need! #Shorts](https://www.youtube.com/watch?v=wiqw7KVLDT0)
 - [ESLint (and Prettier) Quickstart - Lint your javascipt code the right way](https://www.youtube.com/watch?v=St1YSNoB36Y)
 - [Why you should choose TypeScript in 2021](https://www.youtube.com/watch?v=j3vMrmlT_QE)
 - [Vite.js explained in a #short](https://www.youtube.com/watch?v=UUgG1B2UpXw)
 - [Vite - Next generation web build tools](https://www.youtube.com/watch?v=3ADapNcDLZU)
-- [Why you should choose Vue.js in 2021](https://www.youtube.com/watch?v=_XErZvXXalY)
 <!-- YOUTUBE:END -->
 
 ---
