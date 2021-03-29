@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Quasar Framework with Vue 3 Composition API - Building a cross platform note app](https://www.youtube.com/watch?v=qPkSwo8QyoA)
 - [3 image attributes you need! #Shorts](https://www.youtube.com/watch?v=wiqw7KVLDT0)
 - [ESLint (and Prettier) Quickstart - Lint your javascipt code the right way](https://www.youtube.com/watch?v=St1YSNoB36Y)
 - [Why you should choose TypeScript in 2021](https://www.youtube.com/watch?v=j3vMrmlT_QE)
 - [Vite.js explained in a #short](https://www.youtube.com/watch?v=UUgG1B2UpXw)
-- [Vite - Next generation web build tools](https://www.youtube.com/watch?v=3ADapNcDLZU)
 <!-- YOUTUBE:END -->
 
 ---
