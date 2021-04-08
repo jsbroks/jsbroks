@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Write clean JavaScript code with Optional Chaining #Shorts](https://www.youtube.com/watch?v=w-CzuoEt1mc)
 - [Vue explained to React Developers in 6 mins](https://www.youtube.com/watch?v=sUH7PDUswio)
 - [How to get a free google server forever! #Shorts](https://www.youtube.com/watch?v=lRxAUdWMUEY)
 - [Quasar Framework with Vue 3 Composition API - Building a cross platform note app](https://www.youtube.com/watch?v=qPkSwo8QyoA)
 - [3 image attributes you need! #Shorts](https://www.youtube.com/watch?v=wiqw7KVLDT0)
-- [ESLint (and Prettier) Quickstart - Lint your javascipt code the right way](https://www.youtube.com/watch?v=St1YSNoB36Y)
 <!-- YOUTUBE:END -->
 
 ---
