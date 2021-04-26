@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Ways to Fetch Data from an API in Vue 3](https://www.youtube.com/watch?v=-BYZAO99UVA)
 - [7 Important Vue 3 Composition and Composable Functions Explained](https://www.youtube.com/watch?v=z_1k0QC1HsE)
 - [The secret power of JSON stringify #Shorts](https://www.youtube.com/watch?v=mqSOYlgfILs)
 - [React explained for Vue developers in 7 mins](https://www.youtube.com/watch?v=oipl-RXyLTw)
 - [Write clean JavaScript code with Optional Chaining #Shorts](https://www.youtube.com/watch?v=w-CzuoEt1mc)
-- [Vue explained to React Developers in 6 mins](https://www.youtube.com/watch?v=sUH7PDUswio)
 <!-- YOUTUBE:END -->
 
 ---
