@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Firebase Authentication Tutorial with Private Routes in React and Vue](https://www.youtube.com/watch?v=MEAjrlQ35HQ)
 - [8 VSCode Extensions for Fullstack Developers](https://www.youtube.com/watch?v=xKZoo_wBDpw)
 - [5 Fullstack Software Ideas to make money with details included](https://www.youtube.com/watch?v=Dru8Xj7jiqE)
 - [3 Key Steps to Building Software Applications](https://www.youtube.com/watch?v=OZj1eHecLd8)
 - [5 Ways to Fetch Data from an API in Vue 3 Composition API](https://www.youtube.com/watch?v=-BYZAO99UVA)
-- [7 Important Vue 3 Composition and Composable Functions Explained](https://www.youtube.com/watch?v=z_1k0QC1HsE)
 <!-- YOUTUBE:END -->
 
 ---
