@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Vue 3 Animations and Transitions Tutorial](https://www.youtube.com/watch?v=XGTzLhQuFU0)
 - [Animated Navbar using CSS, Vue and Vue Router](https://www.youtube.com/watch?v=CfTvye31Ad0)
 - [How to become more productive in VSCode with Snippets #Shorts](https://www.youtube.com/watch?v=0aAh7THptO8)
 - [Firebase Authentication Tutorial with Private Routes in React and Vue](https://www.youtube.com/watch?v=MEAjrlQ35HQ)
 - [8 VSCode Extensions for Fullstack Developers](https://www.youtube.com/watch?v=xKZoo_wBDpw)
-- [5 Fullstack Software Ideas to make money with details included](https://www.youtube.com/watch?v=Dru8Xj7jiqE)
 <!-- YOUTUBE:END -->
 
 ---
