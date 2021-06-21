@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [CSS Keyframes Tutorial // Creating a Loading Spinner Animation](https://www.youtube.com/watch?v=60OWr7VvJhE)
 - [Vue 3 Animations and Transitions Tutorial](https://www.youtube.com/watch?v=XGTzLhQuFU0)
 - [Animated Navbar using CSS, Vue and Vue Router](https://www.youtube.com/watch?v=CfTvye31Ad0)
 - [How to become more productive in VSCode with Snippets #Shorts](https://www.youtube.com/watch?v=0aAh7THptO8)
 - [Firebase Authentication Tutorial with Private Routes in React and Vue](https://www.youtube.com/watch?v=MEAjrlQ35HQ)
-- [8 VSCode Extensions for Fullstack Developers](https://www.youtube.com/watch?v=xKZoo_wBDpw)
 <!-- YOUTUBE:END -->
 
 ---
