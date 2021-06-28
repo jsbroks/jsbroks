@@ -17,11 +17,11 @@
 ### 📺 Latest Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [Docker with Nodejs in 5 mins // Docker Tutorial](https://www.youtube.com/watch?v=hXhI2ZLDgQM)
 - [How to Code CSS x10 Faster in VSCode! #Shorts](https://www.youtube.com/watch?v=uKZNpJ3-Gjc)
 - [CSS Keyframes Tutorial // Creating a Loading Spinner Animation](https://www.youtube.com/watch?v=60OWr7VvJhE)
 - [Vue 3 Animations and Transitions Tutorial](https://www.youtube.com/watch?v=XGTzLhQuFU0)
 - [Animated Navbar using CSS, Vue and Vue Router](https://www.youtube.com/watch?v=CfTvye31Ad0)
-- [How to become more productive in VSCode with Snippets #Shorts](https://www.youtube.com/watch?v=0aAh7THptO8)
 <!-- YOUTUBE:END -->
 
 ---
